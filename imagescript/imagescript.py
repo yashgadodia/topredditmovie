@@ -23,11 +23,11 @@ import praw
 url = 'https://www.reddit.com/r/wallpapers.json'
 
 #my reddit personal info
-##reddit = praw.Reddit(client_id  = '6ljdJ2YALa49jQ',
-##                     client_secret  =  '5_7iHahDChksFgdAmlpivYNAs6Q',
-##                     username  =  'yashgadodia',
-##                     password  =  'sheyaruke',
-##                     user_agent  =  'bebuprogrammingv1')
+##reddit = praw.Reddit(client_id  = '',
+##                     client_secret  =  '',
+##                     username  =  '',
+##                     password  =  '',
+##                     user_agent  =  '')
 
 ##response = reddit.subreddit('wallpapers').hot(limit = 1)
 
