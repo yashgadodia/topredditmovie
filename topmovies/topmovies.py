@@ -26,11 +26,11 @@ import matplotlib.pyplot as plt
 
 
 #my reddit personal info
-reddit = praw.Reddit(client_id  = '6ljdJ2YALa49jQ',
-                     client_secret  =  '5_7iHahDChksFgdAmlpivYNAs6Q',
-                     username  =  'yashgadodia',
-                     password  =  'sheyaruke',
-                     user_agent  =  'bebuprogrammingv1')
+reddit = praw.Reddit(client_id  = '',
+                     client_secret  =  '',
+                     username  =  '',
+                     password  =  '',
+                     user_agent  =  '')
 
 #hot_posts = reddit.subreddit('Machine Learning').hot(limit=10)
 #for post in hot_posts:
